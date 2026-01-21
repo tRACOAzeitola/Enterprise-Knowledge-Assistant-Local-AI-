@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.env/
+.venv/
+
+# Environment Variables
+.env
+
+# MacOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Project Specific
+# Ignore all PDFs in data directory
+tamet_rh_chatbot/data/**/*.pdf
+tamet_rh_chatbot/data/**/*.PDF
+
+# Ignore Vector Database
+tamet_rh_chatbot/db/

@@ -1,0 +1,10 @@
+langchain
+chromadb
+pypdf
+pymupdf
+pillow
+gradio
+numpy
+langchain-ollama
+langchain-community
+
