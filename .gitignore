@@ -41,8 +41,8 @@ ENV/
 
 # Project Specific
 # Ignore all PDFs in data directory
-tamet_rh_chatbot/data/**/*.pdf
-tamet_rh_chatbot/data/**/*.PDF
+data/**/*.pdf
+data/**/*.PDF
 
 # Ignore Vector Database
-tamet_rh_chatbot/db/
+db/
